@@ -8,6 +8,9 @@
 Increasing Followers on Twitter is really easy. Just follow other people and most of the Following follows you back.  Tech Vows shares script as an easy way for those wondering how to unfollow all Twitter followers and follow back to fans at once.
 
 
+
+## Usage
+
 1. Unfollow all Twitter Followers (People who follow you + People who don’t follow you)
 **Step 1** : Log in to your twitter account.
 
