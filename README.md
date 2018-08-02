@@ -57,6 +57,21 @@ __cnt__=0; jQuery('.Grid-cell .not-following .follow-text').each(function (i, el
 ```
 
 
+The script will follow 2 Twitter users per second. Follow a maximum of 250 followers a day or you’ll risk your Twitter account shut down for spam.
+
+Most common reasons people Unfollow on Twitter:
+
+- If Unfollowed
+- Unfunny jokes.
+- Constant negativity and/or complaining about things.
+- Excessive rudeness, insulting other people, etc.
+- Bad spelling and grammar.
+- Retweeting every single compliment and insult they get (unless it happens to be funny.)
+- Using Retweet to reply to people (it’s like talking loudly on the phone so everyone can hear your conversation.)
+- Abusing Foursquare/Gowalla check-ins, Formspring questions and other services that crosspost to Twitter and add nothing but useless noise.
+- `#Excessive #use #of #hashtags.`
+- Poorly live-tweeting events & conferences in a way that conveys absolutely no information to the people not in attendance, defeating the purpose of live-tweeting it in the first place.
+
 
 
 
