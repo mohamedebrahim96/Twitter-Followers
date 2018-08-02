@@ -97,3 +97,7 @@ I created this script because my Twitter account was hacked and someone followed
 The script first imports jQuery Javascript library by injecting the `<script>` DOM. It then waits for it to completely load and then it executes the `unfollow()` function.
 The `unfollow()` function searches the DOM tree for "Unfollow" buttons and triggers `click` event on each of the buttons - once every ~6 seconds. After 13 clicks it pauses the execution for 10 minutes. It then repeats the whole process after the pause.
 It will automatically scroll the "Following" modal in order to load more "Unfollow" buttons.
+
+##Refrances
+https://www.techvows.com/follow-unfollow-all-twitter-followers/
+https://github.com/pbradaric/instagram-unfollow-script
