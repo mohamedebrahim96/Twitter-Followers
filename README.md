@@ -18,6 +18,8 @@ setInterval(function() {
  }, 2000);
 ```
 
+
+
 Wait till it reaches the bottom of the page.
 
 **Step 5** : Then run this snippet in console to unfollow all Twitter followers (all your Following) including unfollowers and people who follow you.
