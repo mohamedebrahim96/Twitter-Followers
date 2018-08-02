@@ -1,7 +1,7 @@
 ## Follow and unfollow script Twitter
 
 <p align="center">
- <img width="1200" src="https://github.com/mohamedebrahim96/Twitter-Followers/raw/master/1m7y2n.jpg">
+ <img width="800" src="https://github.com/mohamedebrahim96/Twitter-Followers/raw/master/1m7y2n.jpg">
 </p>
 
 
