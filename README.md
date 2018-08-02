@@ -100,6 +100,7 @@ It will automatically scroll the "Following" modal in order to load more "Unfoll
 
 
 
-##Refrances
-https://www.techvows.com/follow-unfollow-all-twitter-followers/
-https://github.com/pbradaric/instagram-unfollow-script
+## Refrances
+[techvows Blog](https://www.techvows.com/follow-unfollow-all-twitter-followers/)
+[github repo](https://github.com/pbradaric/instagram-unfollow-script)
+
