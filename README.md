@@ -14,7 +14,7 @@ Increasing Followers on Twitter is really easy. Just follow other people and mos
 1. Unfollow all Twitter Followers (People who follow you + People who don’t follow you)
 **Step 1** : Log in to your twitter account.  
 **Step 2** : Go to your Following list i.e. go to _www.twitter.com/following_   
-**Step 3** : Open browser console. To open console 
+**Step 3** : Open browser console. To open console     
  in Google Chrome press `ctrl + shift + J` |  
  in Firefox press `ctrl + shift + K` |   
  in Safari Press `ctrl + alt + I` .  
