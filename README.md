@@ -76,11 +76,11 @@ setInterval(function () {
 }, 1000);
 ```
 Simple script in JavaScript to like all tweets on Twitter to get more followers and establish a dictatorship
-1- Open Twitter in desktop mode
-2- Type F12 or CTRL+MAIUSC+I
-3- Open the Console
-4- CTRL+C and CTRL+V the code
-5- Press ENTER and enjoy the bot
+1- Open Twitter in desktop mode  
+2- Type F12 or CTRL+MAIUSC+I  
+3- Open the Console  
+4- CTRL+C and CTRL+V the code  
+5- Press ENTER and enjoy the bot  
 
 
 
