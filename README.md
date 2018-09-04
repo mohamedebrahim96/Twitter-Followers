@@ -67,6 +67,24 @@ __cnt__=0; jQuery('.Grid-cell .not-following .follow-text').each(function (i, el
 
 The script will follow 2 Twitter users per second. Follow a maximum of 250 followers a day or you’ll risk your Twitter account shut down for spam.
 
+========================================
+
+```
+setInterval(function () {
+    window.scrollTo(0, document.body.scrollHeight);
+    $('.ProfileTweet-actionButton.js-actionButton.js-actionFavorite:visible').click();
+}, 1000);
+```
+Simple script in JavaScript to like all tweets on Twitter to get more followers and establish a dictatorship
+1- Open Twitter in desktop mode
+2- Type F12 or CTRL+MAIUSC+I
+3- Open the Console
+4- CTRL+C and CTRL+V the code
+5- Press ENTER and enjoy the bot
+
+
+
+
 Most common reasons people Unfollow on Twitter:
 
 - If Unfollowed
